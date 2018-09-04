@@ -1,5 +1,7 @@
 # Duktape bindings for Go(Golang)
 
+**duktape atualizado em 04/set/2018**
+
 [![wercker status](https://app.wercker.com/status/3a5bb2e639a4b4efaf4c8bf7cab7442d/s "wercker status")](https://app.wercker.com/project/bykey/3a5bb2e639a4b4efaf4c8bf7cab7442d)
 [![Travis status](https://travis-ci.org/olebedev/go-duktape.svg?branch=v3)](https://travis-ci.org/olebedev/go-duktape)
 [![Appveyor status](https://ci.appveyor.com/api/projects/status/github/olebedev/go-duktape?branch=v3&svg=true)](https://ci.appveyor.com/project/olebedev/go-duktape/branch/v3)
